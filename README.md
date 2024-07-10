@@ -1,3 +1,30 @@
+# Full Stack Netflix Clone Mern Stack
+
+![Netflix Clone]([https://i.ibb.co/mCPsJxb/image-1.png](https://ibb.co/xSvgQdR
+https://ibb.co/VSsn92s
+https://ibb.co/CVGsyQX
+https://ibb.co/pQFFV42
+https://ibb.co/vZhznks
+https://ibb.co/ypRSdr4))
+
+This project is a full stack Netflix clone built using React, Tailwind CSS, Next.js, Prisma, MongoDB, NextAuth, and deployed on Vercel. It aims to replicate the main features and functionality of the Netflix platform.
+
+## Stack
+
+The project utilizes the following technologies and libraries:
+
+- React
+- Tailwind CSS
+- Next.js
+- Prisma
+- MongoDB
+- NextAuth
+- Vercel
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

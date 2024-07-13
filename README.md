@@ -1,4 +1,4 @@
-# Full Stack Netflix Clone Mern Stack
+# Full Stack Netflix Clone Mern Stack using React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Verce
 
 ![Netflix Clone](https://i.ibb.co/DDXMnTS/Screenshot-2024-07-10-220420.png)
 ![Netflix Clone](https://i.ibb.co/yyrvPWr/Screenshot-2024-07-10-220507.png)
